@@ -14,7 +14,4 @@ serve: ## Serve the documentation.
 build: ## Build the documentation.
 	mkdocs build --strict
 
-deploy: ## Deploy the documentation.
-	mkdocs gh-deploy --strict --force
-
 .PHONY: docs
