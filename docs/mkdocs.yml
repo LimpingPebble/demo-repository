@@ -1,4 +1,10 @@
-site_name: Stone Engine
+site_name: Documentation Quickstart
+
+site_description: Starter template for a MkDocs docs site on GH Pages - including CI
+site_url: https://limpingpebble.github.io/demo-repository/
+
+repo_url: https://github.com/LimpingPebble/demo-repository
+edit_uri: edit/main/docs/docs
 
 plugins:
   - search
