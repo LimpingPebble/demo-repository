@@ -1,0 +1,7 @@
+site_name: Stone Engine
+
+plugins:
+  - search
+  - mermaid2
+
+theme: readthedocs
